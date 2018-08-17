@@ -1,4 +1,4 @@
-#CODETOJOY.tech
+# CODETOJOY.tech
 
 ## Michael Petty's portfolio website
 
