@@ -1,0 +1,26 @@
+#logos {
+	position: relative;
+	width: 98%;
+    max-width: 800px;
+	padding-bottom: 100%;
+	vertical-align: middle;
+	margin: auto;
+	overflow: hidden;
+}
+#logos svg { 
+	display: inline-block;
+	position: absolute;
+	top: 0; left: 0;
+}
+#logos svg polygon:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+#logos svg ellipse:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+#logos svg circle:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}

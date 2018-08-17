@@ -1,0 +1,43 @@
+body {
+  background-color: #cfe2f3ff;
+  color: white;
+  font-family: arial, sans-serif;
+}
+
+header {
+  line-height: normal;
+  width: 98%;
+  padding: .25rem;
+  margin: .5rem;
+  border: 1rem solid transparent;
+  border-radius: .25rem;
+  -webkit-border-radius: .25rem;
+  -moz-border-radius: .25rem;
+  background-image: url(/i/cogs/COGS_clean.png);
+}
+
+h1 {
+  font-family: "Times New Roman", serif;
+  font-size: 3rem;
+}
+
+nav {
+  font-size: 1.25rem;
+  padding-top: 0.25rem;
+}
+
+.bck-gr-cog {
+  background-image: url(/i/cogs/COGS_clean_gr.png);
+}
+
+.bck-pur-cog {
+  background-image: url(/i/cogs/COGS_clean_purp.png);
+}
+
+.bck-lblu-cog {
+  background-image: url(/i/cogs/COGS_clean_lblue.png);
+}
+
+.bck-dpur-cog {
+  background-image: url(/i/cogs/COGS_clean_dkpurp.png);
+}
